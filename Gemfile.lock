@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    clipboard (1.3.6)
+    csv (3.2.8)
+    ffi (1.16.3-x64-mingw-ucrt)
+    io-console (0.7.2)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  clipboard
+  csv
+  ffi
+  io-console
+
+BUNDLED WITH
+   2.4.10
